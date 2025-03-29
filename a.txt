@@ -1,0 +1,2 @@
+second line in a.txt
+first line after second line
